@@ -1,0 +1,9 @@
+[
+    {"label":"hello","value":"option1"},
+    {"label":"hi","value":"option1"},
+    {"label":"I need help on payment.","value":"option2"},
+    {"label":"I need help on payment.","value":"option2"},
+    {"label":"Hi, Welcome to our company, we are here to assist you. Please contact us on:test@test.com","value":"answer1"},
+    {"label":"Hi, we are here to assist you Please contact us on: test@test.com","value":"answer2"},
+    {"label":"Please contact us on: test@test.com","value":"answer3"}
+]
